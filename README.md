@@ -1,6 +1,6 @@
 # CalTrain (Synchronization and Mutual Exclusion)
 
-![CalTrain](caltrain.jpg)
+![caltrain](https://user-images.githubusercontent.com/69478720/164249495-e4534f12-6183-4fa6-a0e5-0301827e2f83.jpg)
 
 ## 1. Objectives
 
