@@ -1,0 +1,17 @@
+# ninja log v5
+1	58	1650399530328157831	CMakeFiles/lab3_Caltrain.dir/caltrain.c.o	58dead4d70476ee2
+1	54	1650399530328157831	CMakeFiles/lab3_Caltrain.dir/main.c.o	7eeeede4594142eb
+6	80	1650399530356157654	CMakeFiles/lab3_Caltrain.dir/caltrain-runner.c.o	4e53b8ba3aece59
+0	22	1650399695655061737	lab3_Caltrain	44719bd86bbe1a8b
+0	54	1650399957033189690	CMakeFiles/lab3_Caltrain.dir/caltrain-runner.c.o	4e53b8ba3aece59
+55	77	1650399957061189483	lab3_Caltrain	44719bd86bbe1a8b
+1	88	1650401727449130382	CMakeFiles/lab3_Caltrain.dir/caltrain-runner.c.o	4e53b8ba3aece59
+88	114	1650401727477128033	lab3_Caltrain	44719bd86bbe1a8b
+1	70	1650408283865274594	CMakeFiles/lab3_Caltrain.dir/caltrain.c.o	58dead4d70476ee2
+1	86	1650408283881274426	CMakeFiles/lab3_Caltrain.dir/caltrain-runner.c.o	4e53b8ba3aece59
+86	125	1650408283921274001	lab3_Caltrain	44719bd86bbe1a8b
+0	410	1650412196470498824	CMakeFiles/lab3_Caltrain.dir/caltrain.c.o	58dead4d70476ee2
+3	412	1650412196474502823	CMakeFiles/lab3_Caltrain.dir/caltrain-runner.c.o	4e53b8ba3aece59
+412	469	1650412196530558823	lab3_Caltrain	44719bd86bbe1a8b
+1	67	1650415692002987821	CMakeFiles/lab3_Caltrain.dir/caltrain.c.o	58dead4d70476ee2
+67	117	1650415692050988196	lab3_Caltrain	44719bd86bbe1a8b

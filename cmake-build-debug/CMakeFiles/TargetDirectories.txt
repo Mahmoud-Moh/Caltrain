@@ -1,0 +1,3 @@
+/home/mahmoud/CLionProjects/lab3-Caltrain/cmake-build-debug/CMakeFiles/lab3_Caltrain.dir
+/home/mahmoud/CLionProjects/lab3-Caltrain/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mahmoud/CLionProjects/lab3-Caltrain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
